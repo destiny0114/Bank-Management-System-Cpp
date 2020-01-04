@@ -10,7 +10,6 @@
 #include <cctype>
 #include <iomanip>
 #include <fstream>
-#include <curses.h>
 
 class Account
 {
